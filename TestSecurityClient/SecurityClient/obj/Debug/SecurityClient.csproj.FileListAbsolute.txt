@@ -1,0 +1,33 @@
+c:\users\p92000711\documents\visual studio 2013\Projects\SecurityClient\SecurityClient\bin\Debug\SecurityClient.exe.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\bin\Debug\SecurityClient.exe
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\bin\Debug\SecurityClient.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\obj\Debug\SecurityClient.Form1.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\obj\Debug\SecurityClient.Properties.Resources.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\obj\Debug\SecurityClient.csproj.GenerateResource.Cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\obj\Debug\SecurityClient.exe
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\obj\Debug\SecurityClient.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\bin\Debug\app.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\bin\Debug\Behaviors.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\bin\Debug\Bindings.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\bin\Debug\ClientEndpoints.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\bin\Debug\Types.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\obj\Debug\SecurityClient.exe.licenses
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\obj\Debug\SecurityClient.FrmAccessToken.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\obj\Debug\SecurityClient.FrmUserInfo.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityClient\obj\Debug\SecurityClient.csprojResolveAssemblyReference.cache
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\bin\Debug\app.config
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\bin\Debug\Behaviors.config
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\bin\Debug\Bindings.config
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\bin\Debug\ClientEndpoints.config
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\bin\Debug\Types.config
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\bin\Debug\SecurityClient.exe.config
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\bin\Debug\SecurityClient.exe
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\bin\Debug\SecurityClient.pdb
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\obj\Debug\SecurityClient.Form1.resources
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\obj\Debug\SecurityClient.FrmAccessToken.resources
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\obj\Debug\SecurityClient.FrmUserInfo.resources
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\obj\Debug\SecurityClient.Properties.Resources.resources
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\obj\Debug\SecurityClient.csproj.GenerateResource.Cache
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\obj\Debug\SecurityClient.exe.licenses
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\obj\Debug\SecurityClient.exe
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityClient\obj\Debug\SecurityClient.pdb

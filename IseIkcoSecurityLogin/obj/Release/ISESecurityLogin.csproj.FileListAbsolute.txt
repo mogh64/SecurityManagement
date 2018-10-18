@@ -1,0 +1,8 @@
+E:\RemoteLogin\IseIkcoSecurityLogin\obj\Release\ISESecurityLogin.csproj.GenerateResource.Cache
+E:\RemoteLogin\IseIkcoSecurityLogin\obj\Release\ISESecurityLogin.csprojResolveAssemblyReference.cache
+E:\RemoteLogin\IseIkcoSecurityLogin\bin\Release\Oracle.DataAccess.dll
+E:\RemoteLogin\IseIkcoSecurityLogin\obj\Release\ISESecurityLogin.Properties.Resources.resources
+E:\RemoteLogin\IseIkcoSecurityLogin\bin\Release\ISESecurityLogin.dll
+E:\RemoteLogin\IseIkcoSecurityLogin\bin\Release\ISESecurityLogin.pdb
+E:\RemoteLogin\IseIkcoSecurityLogin\obj\Release\ISESecurityLogin.dll
+E:\RemoteLogin\IseIkcoSecurityLogin\obj\Release\ISESecurityLogin.pdb

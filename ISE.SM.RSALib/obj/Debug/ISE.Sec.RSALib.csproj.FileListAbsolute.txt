@@ -1,0 +1,5 @@
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.RSALib\bin\Debug\ISE.Sec.RSALib.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.RSALib\bin\Debug\ISE.Sec.RSALib.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.RSALib\obj\Debug\ISE.Sec.RSALib.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.RSALib\obj\Debug\ISE.Sec.RSALib.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.RSALib\obj\Debug\ISE.Sec.RSALib.csprojResolveAssemblyReference.cache

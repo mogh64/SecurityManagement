@@ -1,0 +1,16 @@
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Utility\bin\Debug\ISE.SM.Utility.dll
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Utility\bin\Debug\ISE.SM.Utility.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Utility\obj\Debug\ISE.SM.Utility.dll
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Utility\obj\Debug\ISE.SM.Utility.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.SM.Utility\bin\Debug\ISE.SM.Utility.dll
+E:\ISECollection\Security\ISE.Sec\ISE.SM.Utility\bin\Debug\ISE.SM.Utility.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.SM.Utility\obj\Debug\ISE.SM.Utility.dll
+E:\ISECollection\Security\ISE.Sec\ISE.SM.Utility\obj\Debug\ISE.SM.Utility.pdb
+E:\ISECollection\ISE.SM\ISE.SM.Utility\bin\Debug\ISE.SM.Utility.dll
+E:\ISECollection\ISE.SM\ISE.SM.Utility\bin\Debug\ISE.SM.Utility.pdb
+E:\ISECollection\ISE.SM\ISE.SM.Utility\obj\Debug\ISE.SM.Utility.dll
+E:\ISECollection\ISE.SM\ISE.SM.Utility\obj\Debug\ISE.SM.Utility.pdb
+E:\ISECollection\ISESM\ISE.SM.Utility\bin\Debug\ISE.SM.Utility.dll
+E:\ISECollection\ISESM\ISE.SM.Utility\bin\Debug\ISE.SM.Utility.pdb
+E:\ISECollection\ISESM\ISE.SM.Utility\obj\Debug\ISE.SM.Utility.dll
+E:\ISECollection\ISESM\ISE.SM.Utility\obj\Debug\ISE.SM.Utility.pdb

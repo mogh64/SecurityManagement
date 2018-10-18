@@ -1,0 +1,18 @@
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\Release\ISE.Sec.Model.dll.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\Release\ISE.Sec.Model.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\Release\ISE.Sec.Model.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.Model\obj\Debug\ISE.Sec.Model.csprojResolveAssemblyReference.cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.Model\obj\Debug\ISE.Sec.Model.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.Model\obj\Debug\ISE.Sec.Model.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\Release\ISE.Sec.Model.dll.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\Release\ISE.Sec.Model.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\Release\ISE.Sec.Model.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Model\obj\Debug\ISE.Sec.Model.csprojResolveAssemblyReference.cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Model\obj\Debug\ISE.Sec.Model.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Model\obj\Debug\ISE.Sec.Model.pdb
+E:\ISECollection\Security\ISE.Sec\Release\ISE.Sec.Model.dll.config
+E:\ISECollection\Security\ISE.Sec\Release\ISE.Sec.Model.dll
+E:\ISECollection\Security\ISE.Sec\Release\ISE.Sec.Model.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Model\obj\Debug\ISE.Sec.Model.csprojResolveAssemblyReference.cache
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Model\obj\Debug\ISE.Sec.Model.dll
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Model\obj\Debug\ISE.Sec.Model.pdb

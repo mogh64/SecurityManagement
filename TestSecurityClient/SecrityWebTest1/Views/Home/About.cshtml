@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "About 1";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>Use this area to provide additional information.</p>
+<input type="button" value="Go to Second Website" id="btnSecWeb" />
+<script>
+    $(document).ready(function () {
+        $("#btnSecWeb").click(function () {
+           
+            var cookie = readCookie("identityToken");
+            $.ajax
+           ({
+               type: "POST",
+               url: "http://localhost:8928/Account/ExternalTokenLogin",
+               dataType: 'json',
+               async: false,            
+               beforeSend: function (xhr) {
+                   xhr.setRequestHeader('Authorization', cookie);
+               },
+               success: function () {
+                   alert('Thanks for your comment!');
+               }
+           });
+         
+        })
+        function readCookie(name) {
+          
+            var nameEQ = name + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+            }
+            return null;
+        }
+    });
+    
+</script>

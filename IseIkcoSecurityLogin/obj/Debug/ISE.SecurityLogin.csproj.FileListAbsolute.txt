@@ -1,0 +1,7 @@
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\obj\Debug\ISESecurityLogin.Properties.Resources.resources
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\obj\Debug\ISE.SecurityLogin.csproj.GenerateResource.Cache
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\obj\Debug\ISESecurityLogin.dll
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\obj\Debug\ISESecurityLogin.pdb
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\bin\Debug\ISESecurityLogin.dll
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\bin\Debug\ISESecurityLogin.pdb
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\obj\Debug\ISE.SecurityLogin.csprojResolveAssemblyReference.cache

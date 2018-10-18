@@ -1,0 +1,62 @@
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\app.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\Behaviors.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\Bindings.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ClientEndpoints.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\Types.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Sec.FormTest.exe.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Sec.FormTest.exe
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Sec.FormTest.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Framework.Client.Common.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Framework.Client.Win.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Framework.Common.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Framework.Utility.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Sec.Client.Common.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Sec.Client.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Sec.Common.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Sec.Utility.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.UILibrary.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\SLF.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\EmitMapper.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.ClassLibrary.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\Oracle.DataAccess.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Sec.Client.Common.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Sec.Client.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Sec.Common.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Sec.Utility.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Framework.Client.Common.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Framework.Client.Win.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Framework.Common.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\ISE.Framework.Utility.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\bin\Debug\SLF.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ClientRelease\app.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ClientRelease\Behaviors.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ClientRelease\Bindings.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ClientRelease\ClientEndpoints.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ClientRelease\Types.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ClientRelease\ISE.Sec.FormTest.exe.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ClientRelease\ISE.Sec.FormTest.exe
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ClientRelease\ISE.Sec.FormTest.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.csprojResolveAssemblyReference.cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.Form1.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.Properties.Resources.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.csproj.GenerateResource.Cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.exe
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.pdb
+E:\ISECollection\Security\ISE.Sec\ClientRelease\app.config
+E:\ISECollection\Security\ISE.Sec\ClientRelease\Behaviors.config
+E:\ISECollection\Security\ISE.Sec\ClientRelease\Bindings.config
+E:\ISECollection\Security\ISE.Sec\ClientRelease\ClientEndpoints.config
+E:\ISECollection\Security\ISE.Sec\ClientRelease\Types.config
+E:\ISECollection\Security\ISE.Sec\ClientRelease\ISE.Sec.FormTest.exe.config
+E:\ISECollection\Security\ISE.Sec\ClientRelease\ISE.Sec.FormTest.exe
+E:\ISECollection\Security\ISE.Sec\ClientRelease\ISE.Sec.FormTest.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.csprojResolveAssemblyReference.cache
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.Form1.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.Properties.Resources.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.csproj.GenerateResource.Cache
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.exe
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.login.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.mainFrm.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.FormTest\obj\Debug\ISE.Sec.FormTest.exe.licenses

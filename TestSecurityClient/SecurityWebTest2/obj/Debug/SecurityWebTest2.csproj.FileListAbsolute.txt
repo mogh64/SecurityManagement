@@ -1,0 +1,62 @@
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\SecurityWebTest2.dll.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\SecurityWebTest2.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\SecurityWebTest2.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Antlr3.Runtime.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\EntityFramework.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\EntityFramework.SqlServer.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Newtonsoft.Json.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Owin.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.Helpers.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.Mvc.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.Optimization.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.Razor.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.WebPages.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.WebPages.Razor.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\WebGrease.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.Helpers.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.Mvc.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.Optimization.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.Razor.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.WebPages.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\System.Web.WebPages.Razor.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Antlr3.Runtime.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Newtonsoft.Json.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\EntityFramework.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\EntityFramework.SqlServer.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\obj\Debug\SecurityWebTest2.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\obj\Debug\SecurityWebTest2.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\obj\Debug\SecurityWebTest2.csprojResolveAssemblyReference.cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\SecurityClient\SecurityWebTest2\bin\ISE.Sec.Common.pdb
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityWebTest2\obj\Debug\SecurityWebTest2.csprojResolveAssemblyReference.cache
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityWebTest2\obj\Debug\SecurityWebTest2.dll
+E:\ISECollection\ISE.SM\TestSecurityClient\SecurityWebTest2\obj\Debug\SecurityWebTest2.pdb
+E:\ISECollection\ISESM\TestSecurityClient\SecurityWebTest2\obj\Debug\SecurityWebTest2.csprojResolveAssemblyReference.cache
+E:\ISECollection\ISESM\TestSecurityClient\SecurityWebTest2\obj\Debug\SecurityWebTest2.dll
+E:\ISECollection\ISESM\TestSecurityClient\SecurityWebTest2\obj\Debug\SecurityWebTest2.pdb

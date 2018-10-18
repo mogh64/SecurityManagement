@@ -1,0 +1,15 @@
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\Release\ISE.Sec.DataAccess.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\Release\ISE.Sec.DataAccess.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.DataAccess\obj\Debug\ISE.Sec.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.DataAccess\obj\Debug\ISE.Sec.DataAccess.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.DataAccess\obj\Debug\ISE.Sec.DataAccess.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\Release\ISE.Sec.DataAccess.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\Release\ISE.Sec.DataAccess.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.DataAccess\obj\Debug\ISE.Sec.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.DataAccess\obj\Debug\ISE.Sec.DataAccess.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.DataAccess\obj\Debug\ISE.Sec.DataAccess.pdb
+E:\ISECollection\Security\ISE.Sec\Release\ISE.Sec.DataAccess.dll
+E:\ISECollection\Security\ISE.Sec\Release\ISE.Sec.DataAccess.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.DataAccess\obj\Debug\ISE.Sec.DataAccess.csprojResolveAssemblyReference.cache
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.DataAccess\obj\Debug\ISE.Sec.DataAccess.dll
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.DataAccess\obj\Debug\ISE.Sec.DataAccess.pdb

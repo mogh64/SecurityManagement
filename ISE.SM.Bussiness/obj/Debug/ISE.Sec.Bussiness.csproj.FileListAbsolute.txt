@@ -1,0 +1,15 @@
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\Release\ISE.Sec.Bussiness.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\Release\ISE.Sec.Bussiness.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.Bussiness\obj\Debug\ISE.Sec.Bussiness.csprojResolveAssemblyReference.cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.Bussiness\obj\Debug\ISE.Sec.Bussiness.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.Bussiness\obj\Debug\ISE.Sec.Bussiness.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\Release\ISE.Sec.Bussiness.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\Release\ISE.Sec.Bussiness.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Bussiness\obj\Debug\ISE.Sec.Bussiness.csprojResolveAssemblyReference.cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Bussiness\obj\Debug\ISE.Sec.Bussiness.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Bussiness\obj\Debug\ISE.Sec.Bussiness.pdb
+E:\ISECollection\Security\ISE.Sec\Release\ISE.Sec.Bussiness.dll
+E:\ISECollection\Security\ISE.Sec\Release\ISE.Sec.Bussiness.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Bussiness\obj\Debug\ISE.Sec.Bussiness.csprojResolveAssemblyReference.cache
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Bussiness\obj\Debug\ISE.Sec.Bussiness.dll
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Bussiness\obj\Debug\ISE.Sec.Bussiness.pdb

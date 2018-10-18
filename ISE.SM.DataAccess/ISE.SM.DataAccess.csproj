@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB84D4D3-8568-4032-9E4A-57AD8DE719DE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ISE.SM.DataAccess</RootNamespace>
+    <AssemblyName>ISE.SM.DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EmitMapper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Release\EmitMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="ISE.Framework.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Release\ISE.Framework.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ISE.Framework.Server.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Release\ISE.Framework.Server.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ISE.Framework.Server.Core, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Release\ISE.Framework.Server.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ISE.Framework.Utility, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Release\ISE.Framework.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.OpenAccess, Version=2014.3.1027.1, Culture=neutral, PublicKeyToken=7ce17eeaf1d59342, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Telerik.OpenAccess.35.Extensions, Version=2014.3.1027.1, Culture=neutral, PublicKeyToken=7ce17eeaf1d59342, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountTDataAccess.cs" />
+    <Compile Include="AccountToAppDomainTDataAccess.cs" />
+    <Compile Include="AppDomainTDataAccess.cs" />
+    <Compile Include="GroupTDataAccess.cs" />
+    <Compile Include="LoginTypeTDataAccess.cs" />
+    <Compile Include="ManagementAccountTDataAccess.cs" />
+    <Compile Include="ManagementLogTDataAccess.cs" />
+    <Compile Include="OperationTDataAccess.cs" />
+    <Compile Include="PasswordHistoryTDataAccess.cs" />
+    <Compile Include="PermissionTDataAccess.cs" />
+    <Compile Include="PermissionToRoleTDataAccess.cs" />
+    <Compile Include="PermissionToUserTDataAccess.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResourceTDataAccess.cs" />
+    <Compile Include="ResourceToOperationTDataAccess.cs" />
+    <Compile Include="ResourceTypeTDataAccess.cs" />
+    <Compile Include="RoleTDataAccess.cs" />
+    <Compile Include="RoleToGroupTDataAccess.cs" />
+    <Compile Include="RoleToRoleConstraintTDataAccess.cs" />
+    <Compile Include="ScopeTDataAccess.cs" />
+    <Compile Include="SecurityCompanyTDataAccess.cs" />
+    <Compile Include="SecurityUserLogTDataAccess.cs" />
+    <Compile Include="SecurityUserTDataAccess.cs" />
+    <Compile Include="SessionTDataAccess.cs" />
+    <Compile Include="UserResourceScopeTDataAccesscs.cs" />
+    <Compile Include="UserToCompanyTDataAccess.cs" />
+    <Compile Include="UserToGroupTDataAccess.cs" />
+    <Compile Include="UserToRoleConstraintTDataAccess.cs" />
+    <Compile Include="UserToRoleTDataAccess.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ISE.SM.Common\ISE.SM.Common.csproj">
+      <Project>{eb685f99-c0d0-42b4-99a1-85090d51e583}</Project>
+      <Name>ISE.SM.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ISE.SM.Model\ISE.SM.Model.csproj">
+      <Project>{9536d9e5-f9b1-4db6-9691-c42f1dcb6723}</Project>
+      <Name>ISE.SM.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

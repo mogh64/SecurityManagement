@@ -1,0 +1,4 @@
+E:\RemoteLogin\IseIkcoSecurityLoginRemote\bin\Release\ISEThirdpartyLogin.dll
+E:\RemoteLogin\IseIkcoSecurityLoginRemote\bin\Release\ISEThirdpartyLogin.pdb
+E:\RemoteLogin\IseIkcoSecurityLoginRemote\obj\Release\ISEThirdpartyLogin.dll
+E:\RemoteLogin\IseIkcoSecurityLoginRemote\obj\Release\ISEThirdpartyLogin.pdb

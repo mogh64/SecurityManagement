@@ -1,0 +1,8 @@
+E:\RemoteLogin\IseIkcoSecurityLoginRemote\bin\Debug\IseIkcoSecurityLoginRemote.dll
+E:\RemoteLogin\IseIkcoSecurityLoginRemote\bin\Debug\IseIkcoSecurityLoginRemote.pdb
+E:\RemoteLogin\IseIkcoSecurityLoginRemote\obj\Debug\IseIkcoSecurityLoginRemote.dll
+E:\RemoteLogin\IseIkcoSecurityLoginRemote\obj\Debug\IseIkcoSecurityLoginRemote.pdb
+E:\ISECollection\ISESM\IseIkcoSecurityLoginRemote\bin\Debug\ISEThirdpartyLogin.dll
+E:\ISECollection\ISESM\IseIkcoSecurityLoginRemote\bin\Debug\ISEThirdpartyLogin.pdb
+E:\ISECollection\ISESM\IseIkcoSecurityLoginRemote\obj\Debug\ISEThirdpartyLogin.dll
+E:\ISECollection\ISESM\IseIkcoSecurityLoginRemote\obj\Debug\ISEThirdpartyLogin.pdb

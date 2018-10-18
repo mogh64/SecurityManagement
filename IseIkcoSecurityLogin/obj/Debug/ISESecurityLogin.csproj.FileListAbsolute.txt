@@ -1,0 +1,13 @@
+E:\RemoteLogin\IseIkcoSecurityLogin\bin\Debug\IseIkcoSecurityLogin.dll
+E:\RemoteLogin\IseIkcoSecurityLogin\bin\Debug\IseIkcoSecurityLogin.pdb
+E:\RemoteLogin\IseIkcoSecurityLogin\obj\Debug\IseIkcoSecurityLogin.Properties.Resources.resources
+E:\RemoteLogin\IseIkcoSecurityLogin\obj\Debug\ISESecurityLogin.csproj.GenerateResource.Cache
+E:\RemoteLogin\IseIkcoSecurityLogin\obj\Debug\IseIkcoSecurityLogin.dll
+E:\RemoteLogin\IseIkcoSecurityLogin\obj\Debug\IseIkcoSecurityLogin.pdb
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\bin\Debug\ISESecurityLogin.dll
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\bin\Debug\ISESecurityLogin.pdb
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\obj\Debug\ISESecurityLogin.csprojResolveAssemblyReference.cache
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\obj\Debug\ISESecurityLogin.Properties.Resources.resources
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\obj\Debug\ISESecurityLogin.csproj.GenerateResource.Cache
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\obj\Debug\ISESecurityLogin.dll
+E:\ISECollection\ISESM\IseIkcoSecurityLogin\obj\Debug\ISESecurityLogin.pdb

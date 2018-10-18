@@ -1,0 +1,18 @@
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\Release\ISE.Sec.UnitTest.dll.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\Release\ISE.Sec.UnitTest.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\Release\ISE.Sec.UnitTest.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.UnitTest\obj\Debug\ISE.Sec.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.UnitTest\obj\Debug\ISE.Sec.UnitTest.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.UnitTest\obj\Debug\ISE.Sec.UnitTest.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\Release\ISE.Sec.UnitTest.dll.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\Release\ISE.Sec.UnitTest.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\Release\ISE.Sec.UnitTest.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.UnitTest\obj\Debug\ISE.Sec.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.UnitTest\obj\Debug\ISE.Sec.UnitTest.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.UnitTest\obj\Debug\ISE.Sec.UnitTest.pdb
+E:\ISECollection\Security\ISE.Sec\Release\ISE.Sec.UnitTest.dll.config
+E:\ISECollection\Security\ISE.Sec\Release\ISE.Sec.UnitTest.dll
+E:\ISECollection\Security\ISE.Sec\Release\ISE.Sec.UnitTest.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.UnitTest\obj\Debug\ISE.Sec.UnitTest.csprojResolveAssemblyReference.cache
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.UnitTest\obj\Debug\ISE.Sec.UnitTest.dll
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.UnitTest\obj\Debug\ISE.Sec.UnitTest.pdb

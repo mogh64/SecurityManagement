@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EB685F99-C0D0-42B4-99A1-85090D51E583}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ISE.SM.Common</RootNamespace>
+    <AssemblyName>ISE.SM.Common</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ISE.ClassLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Release\ISE.ClassLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="ISE.Framework.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Release\ISE.Framework.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ISE.Framework.Utility, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Release\ISE.Framework.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="ISE.UILibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Release\ISE.UILibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="SLF, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Release\SLF.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Contract\IApplicationDomainService.cs" />
+    <Compile Include="Contract\IAuthenticationService.cs" />
+    <Compile Include="Contract\IAuthorizationService.cs" />
+    <Compile Include="Contract\IDataService.cs" />
+    <Compile Include="Contract\IGroupService.cs" />
+    <Compile Include="Contract\IManagementService.cs" />
+    <Compile Include="Contract\IMembershipProviderService.cs" />
+    <Compile Include="Contract\IOperationService.cs" />
+    <Compile Include="Contract\IPermissionService.cs" />
+    <Compile Include="Contract\IResourceService.cs" />
+    <Compile Include="Contract\IRoleService.cs" />
+    <Compile Include="Contract\ISecurityCompanyService.cs" />
+    <Compile Include="Contract\ISecurityUserService.cs" />
+    <Compile Include="Contract\ISessionService.cs" />
+    <Compile Include="DTOContainer\AccountDtoContainer.cs" />
+    <Compile Include="DTOContainer\ApplicationDomainDtoContainer.cs" />
+    <Compile Include="DTOContainer\OperationDtoContainer.cs" />
+    <Compile Include="DTOContainer\PermissionDtoContainer.cs" />
+    <Compile Include="DTOContainer\ResourceTypeDtoContainer.cs" />
+    <Compile Include="DTOContainer\RoleDtoContainer.cs" />
+    <Compile Include="DTOContainer\CompanyDtoContainer.cs" />
+    <Compile Include="DTOContainer\SecurityGroupDtoContainer.cs" />
+    <Compile Include="DTOContainer\SecurityResourceDtoContainer.cs" />
+    <Compile Include="DTOContainer\SecuritySessionDtoContainer.cs" />
+    <Compile Include="DTOContainer\UserDtoContainer.cs" />
+    <Compile Include="DTO\AccountDto.cs" />
+    <Compile Include="DTO\AccountToAppDomainDto.cs" />
+    <Compile Include="DTO\ApplicationDomainDto.cs" />
+    <Compile Include="DTO\Auto\Telerik.OpenAccess.DTO.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Telerik.OpenAccess.DTO.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\CompanyDto.cs" />
+    <Compile Include="DTO\GroupToGroupDto.cs" />
+    <Compile Include="DTO\LoginTypeDto.cs" />
+    <Compile Include="DTO\ManagementAccountDto.cs" />
+    <Compile Include="DTO\ManagementLogDto.cs" />
+    <Compile Include="DTO\ManagementRoleDto.cs" />
+    <Compile Include="DTO\OperationConstraintDto.cs" />
+    <Compile Include="DTO\OperationDto.cs" />
+    <Compile Include="DTO\PasswordHistoryDto.cs" />
+    <Compile Include="DTO\PermissionDto.cs" />
+    <Compile Include="DTO\PermissionToRoleConstraintDto.cs" />
+    <Compile Include="DTO\PermissionToRoleDto.cs" />
+    <Compile Include="DTO\PermissionToUserConstraintDto.cs" />
+    <Compile Include="DTO\PermissionToUserDto.cs" />
+    <Compile Include="DTO\ResourceToOperationDto.cs" />
+    <Compile Include="DTO\ResourceTypeDto.cs" />
+    <Compile Include="DTO\RoleDto.cs" />
+    <Compile Include="DTO\RoleToGroupDto.cs" />
+    <Compile Include="DTO\RoleToRoleConstraintDto.cs" />
+    <Compile Include="DTO\RoleToRoleDto.cs" />
+    <Compile Include="DTO\ScopeDto.cs" />
+    <Compile Include="DTO\SecurityCompanyDto.cs" />
+    <Compile Include="DTO\SecurityGroupDto.cs" />
+    <Compile Include="DTO\SecurityResourceDto.cs" />
+    <Compile Include="DTO\SecuritySessionDto.cs" />
+    <Compile Include="DTO\UserDto.cs" />
+    <Compile Include="DTO\SecurityUserLogDto.cs" />
+    <Compile Include="DTO\SoftwareDomainDto.cs" />
+    <Compile Include="DTO\UserLogDto.cs" />
+    <Compile Include="DTO\UserProfileDto.cs" />
+    <Compile Include="DTO\UserResourceScopeDto.cs" />
+    <Compile Include="DTO\UserToCompanyDto.cs" />
+    <Compile Include="DTO\UserToGroupDto.cs" />
+    <Compile Include="DTO\UserToRoleConstraintDto.cs" />
+    <Compile Include="DTO\UserToRoleDto.cs" />
+    <Compile Include="Enums\AccessType.cs" />
+    <Compile Include="Enums\AuditType.cs" />
+    <Compile Include="Message\AccessToken.cs" />
+    <Compile Include="Message\AuthenticationResult.cs" />
+    <Compile Include="Message\AuthorizationRequest.cs" />
+    <Compile Include="Message\AuthorizationResult.cs" />
+    <Compile Include="Message\Claim.cs" />
+    <Compile Include="Message\ClaimTypes.cs" />
+    <Compile Include="Message\IdentityToken.cs" />
+    <Compile Include="Message\SignInMessage.cs" />
+    <Compile Include="Message\SignOutMessage.cs" />
+    <Compile Include="Message\SignOutResult.cs" />
+    <Compile Include="Message\TokenValidationResult.cs" />
+    <Compile Include="Message\UserInfoGenerator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\SessionIdGenerator.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="DTO\Auto\Telerik.OpenAccess.DTO.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>Telerik.OpenAccess.DTO.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ISE.SM.Utility\ISE.SM.Utility.csproj">
+      <Project>{8e0b28a2-d5c5-403f-ad13-9c3bc6ac4e6f}</Project>
+      <Name>ISE.SM.Utility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

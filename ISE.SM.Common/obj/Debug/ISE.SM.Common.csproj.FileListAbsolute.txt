@@ -1,0 +1,16 @@
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Common\obj\Debug\ISE.SM.Common.csprojResolveAssemblyReference.cache
+E:\ISECollection\Security\ISE.Sec\Release\ISE.SM.Common.dll
+E:\ISECollection\Security\ISE.Sec\Release\ISE.SM.Common.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.SM.Common\obj\Debug\ISE.SM.Common.csprojResolveAssemblyReference.cache
+E:\ISECollection\Security\ISE.Sec\ISE.SM.Common\obj\Debug\ISE.SM.Common.dll
+E:\ISECollection\Security\ISE.Sec\ISE.SM.Common\obj\Debug\ISE.SM.Common.pdb
+E:\ISECollection\ISE.SM\Release\ISE.SM.Common.dll
+E:\ISECollection\ISE.SM\Release\ISE.SM.Common.pdb
+E:\ISECollection\ISE.SM\ISE.SM.Common\obj\Debug\ISE.SM.Common.csprojResolveAssemblyReference.cache
+E:\ISECollection\ISE.SM\ISE.SM.Common\obj\Debug\ISE.SM.Common.dll
+E:\ISECollection\ISE.SM\ISE.SM.Common\obj\Debug\ISE.SM.Common.pdb
+E:\ISECollection\ISESM\Release\ISE.SM.Common.dll
+E:\ISECollection\ISESM\ISE.SM.Common\obj\Debug\ISE.SM.Common.csprojResolveAssemblyReference.cache
+E:\ISECollection\ISESM\ISE.SM.Common\obj\Debug\ISE.SM.Common.dll
+E:\ISECollection\ISESM\ISE.SM.Common\obj\Debug\ISE.SM.Common.pdb
+E:\ISECollection\ISESM\Release\ISE.SM.Common.pdb

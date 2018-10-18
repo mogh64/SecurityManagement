@@ -1,0 +1,46 @@
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ClientRelease\ISE.Sec.Client.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ClientRelease\ISE.Sec.Client.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.csprojResolveAssemblyReference.cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.Properties.Resources.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.ChangePasswordEntry.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCAccountEntry.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCAppDomainEntry.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCGroupEntry.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCOperationEntry.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCResourceEntry.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCRoleEntry.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCSelectOperation.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCSubMenuEntry.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCUserEntry.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UC.UCGroups.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UC.UCOperation.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UC.UCResource.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UC.UCRoles.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UC.UCUsers.resources
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.csproj.GenerateResource.Cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.dll.licenses
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.pdb
+E:\ISECollection\Security\ISE.Sec\ClientRelease\ISE.Sec.Client.dll
+E:\ISECollection\Security\ISE.Sec\ClientRelease\ISE.Sec.Client.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.csprojResolveAssemblyReference.cache
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.Properties.Resources.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.ChangePasswordEntry.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCAccountEntry.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCAppDomainEntry.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCGroupEntry.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCOperationEntry.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCResourceEntry.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCRoleEntry.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCSelectOperation.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCSubMenuEntry.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UCEntry.UCUserEntry.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UC.UCGroups.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UC.UCOperation.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UC.UCResource.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UC.UCRoles.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.UC.UCUsers.resources
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.csproj.GenerateResource.Cache
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.dll.licenses
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.dll
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client\obj\Debug\ISE.Sec.Client.pdb

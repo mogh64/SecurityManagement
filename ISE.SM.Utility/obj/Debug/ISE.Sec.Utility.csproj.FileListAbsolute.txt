@@ -1,0 +1,12 @@
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.Utility\bin\Debug\ISE.Sec.Utility.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.Utility\bin\Debug\ISE.Sec.Utility.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.Utility\obj\Debug\ISE.Sec.Utility.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.Utility\obj\Debug\ISE.Sec.Utility.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Utility\bin\Debug\ISE.Sec.Utility.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Utility\bin\Debug\ISE.Sec.Utility.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Utility\obj\Debug\ISE.Sec.Utility.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Utility\obj\Debug\ISE.Sec.Utility.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Utility\bin\Debug\ISE.Sec.Utility.dll
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Utility\bin\Debug\ISE.Sec.Utility.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Utility\obj\Debug\ISE.Sec.Utility.dll
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Utility\obj\Debug\ISE.Sec.Utility.pdb

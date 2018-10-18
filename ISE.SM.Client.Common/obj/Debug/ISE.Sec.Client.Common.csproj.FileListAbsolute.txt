@@ -1,0 +1,10 @@
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ClientRelease\ISE.Sec.Client.Common.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ClientRelease\ISE.Sec.Client.Common.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client.Common\obj\Debug\ISE.Sec.Client.Common.dll
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client.Common\obj\Debug\ISE.Sec.Client.Common.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Client.Common\obj\Debug\ISE.Sec.Client.Common.csprojResolveAssemblyReference.cache
+E:\ISECollection\Security\ISE.Sec\ClientRelease\ISE.Sec.Client.Common.dll
+E:\ISECollection\Security\ISE.Sec\ClientRelease\ISE.Sec.Client.Common.pdb
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client.Common\obj\Debug\ISE.Sec.Client.Common.csprojResolveAssemblyReference.cache
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client.Common\obj\Debug\ISE.Sec.Client.Common.dll
+E:\ISECollection\Security\ISE.Sec\ISE.Sec.Client.Common\obj\Debug\ISE.Sec.Client.Common.pdb

@@ -1,0 +1,12 @@
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\Release\ISE.Sec.Service.ConsoleHost.exe.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\Release\ISE.Sec.Service.ConsoleHost.exe
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\Release\ISE.Sec.Service.ConsoleHost.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.Service.ConsoleHost\obj\Debug\ISE.Sec.Service.ConsoleHost.csprojResolveAssemblyReference.cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.Service.ConsoleHost\obj\Debug\ISE.Sec.Service.ConsoleHost.exe
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec.TDataAccess\ISE.Sec.Service.ConsoleHost\obj\Debug\ISE.Sec.Service.ConsoleHost.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Service.ConsoleHost\obj\Debug\ISE.Sec.Service.ConsoleHost.csprojResolveAssemblyReference.cache
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\Release\ISE.Sec.Service.ConsoleHost.exe.config
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\Release\ISE.Sec.Service.ConsoleHost.exe
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\Release\ISE.Sec.Service.ConsoleHost.pdb
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Service.ConsoleHost\obj\Debug\ISE.Sec.Service.ConsoleHost.exe
+C:\Users\p92000711\Documents\Visual Studio 2013\Projects\ISE.Sec\ISE.Sec.Service.ConsoleHost\obj\Debug\ISE.Sec.Service.ConsoleHost.pdb
